@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.projectImage {
+  height: 180px;
+  width: 100%;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+.card {
+  width: 100%;
+}
+.visit {
+  color: #0967d2;
+  text-decoration: none;
+  font-weight: 600;
+}

@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.chronoContainer {
+  width: 60%;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px 50px;
+}
+.maineHeading {
+  color: #2b237c;
+}
